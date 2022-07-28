@@ -596,6 +596,7 @@ header .music-play .subtitle {
 header .music-play .icon-mp {
     margin: 10px 10px 50px 725px;
     font-size: 25px;
+    user-select: none;
 }
 
 header .music-play .icon-mp:hover {
