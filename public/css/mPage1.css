@@ -1,0 +1,98 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%; 
+    overflow: hidden
+}
+
+.img-1 {
+    left: 0;
+    position: absolute;
+}
+
+.img-1 img {
+    width: 770px;
+    height: 400px;
+}
+
+.img-2 {
+    top: 0;
+    right: 0;
+    position: absolute;
+}
+
+.img-2 img {
+    width: 768px;
+    height: 400px;
+}
+
+.img-3 {
+    left: 0;
+    bottom: -4px;
+    position: absolute;
+}
+
+.img-3 img {
+    width: 768px;
+    height: 396px;
+}
+
+.img-4 {
+    right: 0;
+    bottom: -4px;
+    position: absolute;
+}
+
+.img-4 img {
+    width: 768px;
+    height: 396px;
+}
+
+.login-form {
+    position: relative;
+    float: right;
+    margin-top: 50px;
+    margin-right: 80px;
+}
+
+a {
+    width: 170px;
+    height: 50px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.login-form a {
+    text-decoration: none;
+    color: #fff;
+    padding: 16px 25px;
+}
+
+.login-form a:hover {
+    color: #000;
+    background-color: #dddd;
+    border-radius: 10px;
+}
+
+.logo {
+    position: absolute;
+    width: 230px;
+    height: 220px;
+    left: 650px;
+    top: 285px;
+    border-radius: 50%;
+    background-color: #1D2429;
+    padding: 20px;
+}
+
+.logo img {
+    position: absolute;
+    top: 78px;
+    left: 34px;
+    width: 164px;
+}
+
