@@ -118,7 +118,7 @@
             </div>
             <div class="list-music">
                 <div class="item1">
-                    <a href="../HTML/page5.html">
+                    <a href="{{route('lovemusic')}}">
                         <img src="../assets/image/Better Now.jpg" alt="">
                         <span><p>Danh sách phát của tôi</p></span>
                         <h5>của {{ auth()->user()->name }}</h5>
@@ -126,7 +126,7 @@
                 </div>
 
                 <div class="item1">
-                    <a href="../HTML/page5.html">
+                    <a href="{{route('lovemusic')}}">
                         <img src="../assets/image/VCNCKNTD.jpg" alt="">
                         <span><p>Danh sách phát của tôi</p></span>
                         <h5>của {{ auth()->user()->name }}</h5>
@@ -134,7 +134,7 @@
                 </div>
 
                 <div class="item1">
-                    <a href="../HTML/page5.html">
+                    <a href="{{route('lovemusic')}}">
                         <img src="../assets/image/Beautiful Now.jpg" alt="">
                         <span><p>Danh sách phát của tôi</p></span>
                         <h5>của {{ auth()->user()->name }}</h5>
@@ -142,7 +142,7 @@
                 </div>
 
                 <div class="item1">
-                    <a href="../HTML/page5.html">
+                    <a href="{{route('lovemusic')}}">
                         <img src="../assets/image/Beautiful Scars.jpg" alt="">
                         <span><p>Danh sách phát của tôi</p></span>
                         <h5>của {{ auth()->user()->name }}</h5>
@@ -152,7 +152,7 @@
 
             <div class="list-music">
                 <div class="item1">
-                    <a href="../HTML/page5.html">
+                    <a href="{{route('lovemusic')}}">
                         <img src="../assets/image/Changes.jpg" alt="">
                         <span><p>Danh sách phát của tôi</p></span>
                         <h5>của {{ auth()->user()->name }}</h5>
@@ -160,7 +160,7 @@
                 </div>
 
                 <div class="item1">
-                    <a href="../HTML/page5.html">
+                    <a href="{{route('lovemusic')}}">
                         <img src="../assets/image/In The End.jpg" alt="">
                         <span><p>Danh sách phát của tôi</p></span>
                         <h5>của {{ auth()->user()->name }}</h5>
@@ -168,7 +168,7 @@
                 </div>
 
                 <div class="item1">
-                    <a href="../HTML/page5.html">
+                    <a href="{{route('lovemusic')}}">
                         <img src="../assets/image/Tai vi sao.jpg" alt="">
                         <span><p>Danh sách phát của tôi</p></span>
                         <h5>của {{ auth()->user()->name }}</h5>
@@ -176,7 +176,7 @@
                 </div>
 
                 <div class="item1">
-                    <a href="../HTML/page5.html">
+                    <a href="{{route('lovemusic')}}">
                         <img src="../assets/image/O trong thanh pho.jpg" alt="">
                         <span><p>Danh sách phát của tôi</p></span>
                         <h5>của {{ auth()->user()->name }}</h5>
