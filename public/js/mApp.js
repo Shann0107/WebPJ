@@ -9,7 +9,7 @@ const musicContainer = document.querySelector(".music-play");
 let wave = document.getElementsByClassName("wave")[0];
 
 //song title
-const songs = ["VCNCKNTD", "O trong thanh pho", "Tai vi sao", "Thieu Than", "Better Now", "In The End", "Changes", "Beautiful Now", "On My Way", "Beautiful Scars"]
+const songs = ["Tai vi sao", "Thieu Than", "Better Now", "In The End", "Changes", "Beautiful Now", "Beautiful Scars"]
 
 //Play Song
 function loadSong(song) {
